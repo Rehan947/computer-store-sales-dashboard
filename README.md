@@ -39,4 +39,6 @@ This project analyzes computer store sales data using Microsoft Excel.
 
 ## Dashboard Preview
 
-!(Dashboard_Screenshot.png.png)
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png.png)
